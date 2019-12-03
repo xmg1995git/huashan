@@ -1,2 +1,3 @@
 hello git!
 你好 git！
+edit by hot_fix!!!
