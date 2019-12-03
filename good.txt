@@ -1,3 +1,4 @@
 hello git!
 你好 git！
 edit by hot_fix!!!
+我在 push 一次 ~嘿嘿~
